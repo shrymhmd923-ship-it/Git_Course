@@ -1,3 +1,11 @@
+#Python oop project
+#Sqlite database
+#Tkinter GUI
+#Crub system 
+#Csv expct
+
+
+
 # Git_Course
 For shrymhmd Git Course
 
